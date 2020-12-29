@@ -38,6 +38,7 @@
 #define ACTIONLIB__SERVER__SIMPLE_ACTION_SERVER_IMP_H_
 
 #include <ros/ros.h>
+#include <boost/bind.hpp>
 #include <string>
 
 namespace actionlib

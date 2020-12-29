@@ -36,6 +36,7 @@
 #define ACTIONLIB__MANAGED_LIST_H_
 
 #include <actionlib/destruction_guard.h>
+#include <boost/bind.hpp>
 #include <boost/thread.hpp>
 #include <boost/shared_ptr.hpp>
 #include <boost/weak_ptr.hpp>

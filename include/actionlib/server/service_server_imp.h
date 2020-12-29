@@ -37,6 +37,7 @@
 #ifndef ACTIONLIB__SERVER__SERVICE_SERVER_IMP_H_
 #define ACTIONLIB__SERVER__SERVICE_SERVER_IMP_H_
 
+#include <boost/bind.hpp>
 #include <string>
 
 namespace actionlib

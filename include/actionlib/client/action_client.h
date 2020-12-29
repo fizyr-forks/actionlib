@@ -39,6 +39,7 @@
 #include <actionlib/client/connection_monitor.h>
 #include <actionlib/destruction_guard.h>
 
+#include <boost/bind.hpp>
 #include <boost/thread/condition.hpp>
 #include <string>
 

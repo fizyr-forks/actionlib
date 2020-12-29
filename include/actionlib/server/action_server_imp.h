@@ -39,6 +39,7 @@
 
 #include <list>
 #include <string>
+#include <boost/bind.hpp>
 #include <ros/ros.h>
 
 namespace actionlib

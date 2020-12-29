@@ -37,6 +37,7 @@
 
 #include <boost/thread/condition.hpp>
 #include <boost/thread/mutex.hpp>
+#include <boost/bind.hpp>
 #include <boost/scoped_ptr.hpp>
 #include <boost/concept_check.hpp>
 

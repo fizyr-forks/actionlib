@@ -40,6 +40,7 @@
 #define ACTIONLIB__CLIENT__GOAL_MANAGER_IMP_H_
 
 #include "ros/ros.h"
+#include <boost/bind.hpp>
 
 namespace actionlib
 {
